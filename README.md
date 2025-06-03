@@ -1,4 +1,4 @@
-Step 2: Case Study Challenge
+ Case Study Challenge
 Let’s see your problem-solving and technical skills in action!
 Instructions:
 Utilise the freely available WideWorldImporters database. Click here (link:
